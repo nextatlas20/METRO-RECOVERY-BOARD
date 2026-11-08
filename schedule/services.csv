@@ -1,0 +1,13 @@
+service_id,line,arrival,platform,passengers
+SVC-101,amber,07:55,P-1,120
+SVC-102,blue,08:10,P-2,80
+SVC-103,green,08:10,P-3,95
+SVC-104,amber,08:25,P-4,60
+SVC-105,blue,08:35,P-1,110
+SVC-106,green,08:45,P-2,70
+SVC-107,amber,09:05,P-3,130
+SVC-101,blue,09:10,P-2,50
+SVC-108,red,09:15,P-1,55
+SVC-109,blue,9:20,P-4,40
+SVC-110,green,09:30,P-3,7
+SVC-111,amber,09:40,P-4
